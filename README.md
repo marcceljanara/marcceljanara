@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcceljanara" alt="marcceljanara" /></a> </p>
 
-- 🔭 I’m currently working on [rover-drone-api](https://github.com/marcceljanara/rover-drone-api)
+- 🔭 I’m currently working on [rover-drone-api-v2](https://github.com/marcceljanara/rover-drone-api-v2)
 
 - 🌱 I’m currently learning **Express, Clean Architecture,Blockchain**
 
