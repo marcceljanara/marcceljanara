@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **inengahmarcceljbc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E0__OODL2tzQAx1F7tzV-WVfrAXUr7yr/view?usp=sharing](https://drive.google.com/file/d/1E0__OODL2tzQAx1F7tzV-WVfrAXUr7yr/view?usp=sharing)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I am not a CS guy, but I am doing it.**
 
