@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rioputr94198437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rioputr94198437" height="30" width="40" /></a>
+<a href="https://twitter.com/xyorami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xyorami" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/i-nengah-marccel-janara-brata-cipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-nengah-marccel-janara-brata-cipta" height="30" width="40" /></a>
 <a href="https://medium.com/@nengahyuichiro34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nengahyuichiro34" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@inengahmarccelj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@inengahmarccelj1" height="30" width="40" /></a>
