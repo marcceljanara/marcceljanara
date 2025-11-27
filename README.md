@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcceljanara" alt="marcceljanara" /></a> </p>
 
-- 🔭 I’m currently working on [rover-drone-api-v2](https://github.com/marcceljanara/rover-drone-api-v2)
+- 🔭 I’m currently working on [[tenaga-rakyat-api](https://github.com/marcceljanara/tenaga-rakyat-api)
 
-- 🌱 I’m currently learning **Express, Clean Architecture,Blockchain**
+- 🌱 I’m currently learning **Express, Clean Architecture,Blockchain, Nest.js**
 
-- 💬 Ask me about **nodejs, express, jest**
+- 💬 Ask me about **node.js, express, jest, nest.js**
 
 - 📫 How to reach me **inengahmarcceljbc@gmail.com**
 
