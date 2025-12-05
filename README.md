@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences
 
-- ⚡ Fun fact **I am not a CS guy, but I am doing it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
