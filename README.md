@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcceljanara&label=Profile%20views&color=0e75b6&style=flat" alt="marcceljanara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcceljanara" alt="marcceljanara" /></a> </p>
-
 - 🔭 I’m currently working on [tenaga-rakyat-api](https://github.com/marcceljanara/tenaga-rakyat-api)
 
 - 🌱 I’m currently learning **Express, Clean Architecture,Blockchain, Nest.js**
@@ -32,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcceljanara&show_icons=true&locale=en" alt="marcceljanara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcceljanara&" alt="marcceljanara" /></p>
