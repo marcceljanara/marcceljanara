@@ -6,13 +6,12 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [tenaga-rakyat-api](https://github.com/marcceljanara/tenaga-rakyat-api)
 
-- 🌱 I’m currently learning **Express, Clean Architecture,Blockchain, Nest.js**
+- 🌱 I’m currently learning **Express.js, Nest.js, Golang, Design Pattern**
 
-- 💬 Ask me about **node.js, express, jest, nest.js**
+- 💬 Ask me about **Node.js, Express.js, Jest, Nest.js**
 
 - 📫 How to reach me **inengahmarcceljbc@gmail.com**
 
-- 📄 Know about my experiences
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/i-nengah-marccel-janara-brata-cipta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xyorami) 
