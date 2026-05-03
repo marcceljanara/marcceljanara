@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcceljanara&label=Profile%20views&color=0e75b6&style=flat" alt="marcceljanara" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [tenaga-rakyat-api](https://github.com/marcceljanara/tenaga-rakyat-api)
+- 🔭 I’m currently working on [tenaga-rakyat-api](https://github.com/marcceljanara/tenaga-rakyat-api) and [tenaga-rakyat-app](https://github.com/marcceljanara/tenaga-rakyat-app)
 
 - 🌱 I’m currently learning **Golang, Design Pattern, Microservices, Docker**
 
