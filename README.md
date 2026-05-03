@@ -6,7 +6,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [tenaga-rakyat-api](https://github.com/marcceljanara/tenaga-rakyat-api)
 
-- 🌱 I’m currently learning **Express.js, Nest.js, Golang, Design Pattern**
+- 🌱 I’m currently learning **Golang, Design Pattern, Microservices, Docker**
 
 - 💬 Ask me about **Node.js, Express.js, Jest, Nest.js**
 
